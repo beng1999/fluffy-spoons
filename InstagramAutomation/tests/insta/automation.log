@@ -1,0 +1,38 @@
+11/11/2019 12:34:57 PM - Login - INFO: Element found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+11/11/2019 12:34:57 PM - Login - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+11/11/2019 12:34:59 PM - Login - INFO: Element present with locator: //input[@name='username'] locatorType: xpath
+11/11/2019 12:34:59 PM - Login - INFO: Element found with locator: //input[@name='username'] and  locatorType: xpath
+11/11/2019 12:34:59 PM - Login - INFO: Sent data on element with locator: //input[@name='username'] locatorType: xpath
+11/11/2019 12:35:01 PM - Login - INFO: Element found with locator: //input[@name='password'] and  locatorType: xpath
+11/11/2019 12:35:01 PM - Login - INFO: Sent data on element with locator: //input[@name='password'] locatorType: xpath
+11/11/2019 12:35:03 PM - Login - INFO: Element found with locator: //div[contains(text(), 'Log In')]//parent::button and  locatorType: xpath
+11/11/2019 12:35:03 PM - Login - INFO: Clicked on element with locator: //div[contains(text(), 'Log In')]//parent::button locatorType: xpath
+11/11/2019 12:35:06 PM - Login - INFO: Element found with locator: //button[contains(text(), 'Not Now')] and  locatorType: xpath
+11/11/2019 12:35:06 PM - Login - INFO: Clicked on element with locator: //button[contains(text(), 'Not Now')] locatorType: xpath
+11/11/2019 12:35:09 PM - SeleniumDriver - INFO: Element found with locator: //input[@type='text'] and  locatorType: xpath
+11/11/2019 12:35:09 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@type='text'] locatorType: xpath
+11/11/2019 12:35:13 PM - SeleniumDriver - INFO: Element found with locator: //a[@href='/explore/tags/savethebees/'] and  locatorType: xpath
+11/11/2019 12:35:14 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/explore/tags/savethebees/'] locatorType: xpath
+11/11/2019 12:35:17 PM - SeleniumDriver - INFO: Element present with locator: //*[@id='react-root']/section/main/article/div[1]/div/div/div[1]/div[1]/a locatorType: xpath
+11/11/2019 12:35:18 PM - SeleniumDriver - INFO: Element found with locator: //*[@id='react-root']/section/main/article/div[1]/div/div/div[1]/div[1]/a and  locatorType: xpath
+11/11/2019 12:35:18 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id='react-root']/section/main/article/div[1]/div/div/div[1]/div[1]/a locatorType: xpath
+11/11/2019 12:35:20 PM - SeleniumDriver - INFO: Element found with locator: /html/body/div[3]/div[2]/div/article/div[2]/section[3]/div/form/textarea and  locatorType: xpath
+11/11/2019 12:35:20 PM - SeleniumDriver - INFO: Clicked on element with locator: /html/body/div[3]/div[2]/div/article/div[2]/section[3]/div/form/textarea locatorType: xpath
+11/11/2019 12:35:21 PM - SeleniumDriver - INFO: Element found with locator: /html/body/div[3]/div[2]/div/article/div[2]/section[3]/div/form/textarea and  locatorType: xpath
+11/11/2019 12:35:21 PM - SeleniumDriver - INFO: Sent data on element with locator: /html/body/div[3]/div[2]/div/article/div[2]/section[3]/div/form/textarea locatorType: xpath
+11/11/2019 12:35:22 PM - SeleniumDriver - INFO: Element found with locator: //form[@method='POST']//button and  locatorType: xpath
+11/11/2019 12:35:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //form[@method='POST']//button locatorType: xpath
+11/11/2019 12:35:23 PM - SeleniumDriver - INFO: Element found with locator: /html/body/div[3]/div[2]/div/article/div[2]/section[1]/span[1]/button and  locatorType: xpath
+11/11/2019 12:35:23 PM - SeleniumDriver - INFO: Clicked on element with locator: /html/body/div[3]/div[2]/div/article/div[2]/section[1]/span[1]/button locatorType: xpath
+11/11/2019 12:35:24 PM - SeleniumDriver - INFO: Element not found with locator: //div[@role='button'][1] and  locatorType: xpath
+11/11/2019 12:35:24 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div[@role='button'][1] locatorType: xpath
+11/11/2019 12:35:24 PM - SeleniumDriver - INFO: Element not found with locator: //button[contains(text(), 'Follow')] and  locatorType: xpath
+11/11/2019 12:35:24 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[contains(text(), 'Follow')] locatorType: xpath
+11/11/2019 12:35:24 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(), 'Search')] and  locatorType: xpath
+11/11/2019 12:44:18 PM - Login - INFO: Element found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+11/11/2019 12:44:18 PM - Login - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+11/11/2019 12:44:20 PM - Login - INFO: Element not found
+11/11/2019 12:44:22 PM - Login - INFO: Element not found with locator: //input[@name='password'] and  locatorType: xpath
+11/11/2019 12:44:22 PM - Login - INFO: Cannot send data on the element with locator: //input[@name='password'] locatorType: xpath
+11/11/2019 12:44:24 PM - Login - INFO: Element not found with locator: //div[contains(text(), 'Log In')]//parent::button and  locatorType: xpath
+11/11/2019 12:44:24 PM - Login - INFO: Cannot click on the element with locator: //div[contains(text(), 'Log In')]//parent::button locatorType: xpath
